@@ -1,0 +1,3 @@
+[submodule "Stewart-platform-balancer"]
+	path = Stewart-platform-balancer
+	url = https://github.com/MaraeAndersson/Stewart-platform-balancer.git
